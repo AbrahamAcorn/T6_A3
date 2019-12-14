@@ -1,0 +1,10 @@
+
+<resources>
+    <string name="app_name">BD_SQLite_Basico_2019</string>
+    <string name="altas">Altas</string>
+    <string name="bajas">Bajas</string>
+    <string name="cambios">Cambios</string>
+    <string name="consultas">Consultas</string>
+    <string name="busca">Buscar</string>
+    <string name="tituloaltas"></string>
+</resources>
